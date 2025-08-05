@@ -36,4 +36,4 @@ export async function run(interaction) {
 export default {
 	helpers,
 	run,
-};
+};run 

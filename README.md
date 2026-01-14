@@ -12,6 +12,7 @@
 </p>
 
 ---
+___
 
 ## 📌 Introduzione
 
@@ -28,6 +29,7 @@
 
 </details>
 
+---
 ---
 
 
@@ -81,7 +83,7 @@ rm -rf Sessioni
 npm start
 ```
 
-
+---
 ---
 
 ## 🕒 Attivo 24/7 con PM2 (Termux)
@@ -97,7 +99,7 @@ pm2 logs
 ```
 
 </details>
-
+---
 ---
 
 ## 🌐 Installazione su Windows/VPS/RDP
@@ -121,7 +123,7 @@ pm2 logs
    ```
 
 </details>
-
+---
 ---
 
 ## 📂 Risorse Utili
@@ -131,7 +133,7 @@ pm2 logs
 - **Contatto**: [Scrivi qui](https://wa.me/+393336413960)
 - **Collaborazioni**: [Partecipa qui](https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g)
 
-
+---
 ---
 
 ## 👥 Collaboratori
